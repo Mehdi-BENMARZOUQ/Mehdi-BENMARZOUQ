@@ -48,8 +48,8 @@ I thrive on solving complex problems and building innovative solutions. With a s
 
 #
 
+<h3>👨‍💻 My Coding Journey</h3>
 <details>
-    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
     I started coding in high school as a curious student, diving into the world of C programming and algorithmic theory. As I delved deeper, I began teaching myself web development, exploring languages like HTML, CSS, and JavaScript. My passion for coding led me to pursue engineering studies, where I continued to expand my knowledge and skills.
    Along the way, I discovered my love for C# and ASP.NET. I dedicated countless hours to mastering these technologies, immersing myself in online tutorials, documentation, and hands-on projects. Through persistence and determination, I honed my skills and became a proficient developer in C# and ASP.NET.
    Today, I continue to push the boundaries of what's possible with these technologies, leveraging them to build robust and scalable web applications. My journey as a developer has been filled with challenges and triumphs, but I wouldn't have it any other way. I'm excited about the future and the opportunities that await as I strive to become the best developer I can be. 
